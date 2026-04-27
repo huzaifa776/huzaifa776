@@ -22,7 +22,7 @@ I am an aspiring Computer Scientist with a passion for building intelligent, dat
 * 🗣️ **[Customer Sentiment & Topic Modelling](https://github.com/huzaifa776/Customer-Sentiment-Analysis---Topic-Modelling)** - NLP pipeline extracting insights from 22,000+ e-commerce reviews using VADER, Logistic Regression, and NMF.
 * 🎟️ **[Topic Modelling on Support Tickets](https://github.com/huzaifa776/Topic-Modeling-on-Customer-Support-Tickets)** - Discovers common themes in customer support tickets using BERTopic, Optuna, and MLflow.
 * 💹 **[Financial Asset Forecasting](https://github.com/huzaifa776/Forecasting-of-financial-asset-prices-using-artificial-intelligence-techniques)** - Predicts movements for Apple Inc. stocks and Forex using ML classifiers, Deep Learning (LSTM), and technical indicators.
-* [cite_start]🧠 **[Artificial Neural Networks Modelling](https://github.com/huzaifa776/Modelling-of-Artificial-Neural-Network)** - Practical implementations of deep learning, including an ANN for customer churn prediction and a CNN for image classification.
+* 🧠 **[Artificial Neural Networks Modelling](https://github.com/huzaifa776/Modelling-of-Artificial-Neural-Network)** - Practical implementations of deep learning, including an ANN for customer churn prediction and a CNN for image classification.
 
 ---
 📫 **Let's Connect: [LinkedIn](https://www.linkedin.com/in/its-huzaifa/)

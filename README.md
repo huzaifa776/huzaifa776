@@ -8,7 +8,7 @@ I am a Computer Scientist with a passion for building intelligent, data-driven a
 ### 🌟 Live Demos (Hugging Face Spaces)
 * 🩺 **[NHS Medical RAG Chatbot](https://github.com/huzaifa776/Medical-Chatbot-using-RAG)** | [Live on HF](https://huzaifa776-medicalragchatbot.hf.space/) - Gradio-based AI medical assistant built with RAG using the NHS dataset and Groq models.
 * ✈️ **[AI Travel Itinerary Planner](https://github.com/huzaifa776/Travel-Planner)** | [Live on HF](https://huzaifa776-travelplanner.hf.space/) - AI app generating one-day itineraries from city/interests using LangChain and Groq.
-* 🧠 **[Study Buddy AI](https://github.com/huzaifa776/study-buddy)** | [Live on HF](https://huzaifa776-studdybuddy.hf.space) - Dynamic quiz generator and grading tool powered by Llama and Gemini models.
+* 🧠 **[Study Buddy AI](https://github.com/huzaifa776/study-buddy)** | [Live on HF](https://huzaifa776-studdybuddy.hf.space) - Dynamic quiz generator and grading tool powered by AI.
 
 ### 🚀 Generative AI & LLM Applications
 * 🛒 **[E-Commerce Product Recommender & Chatbot](https://github.com/huzaifa776/Product-Recommender)** - Conversational RAG chatbot for answering queries based on Flipkart reviews using Flask, LangChain, and Astra DB.

@@ -35,4 +35,4 @@ I am a Computer Scientist with a passion for building intelligent, data-driven a
 ### 💻 Software Engineering & Backend
 * 📦 **[Courier ASAP](https://github.com/huzaifa776/courierASAP)** - Decoupled Java-based web application for courier booking with a RESTful backend API and Hibernate ORM.
 
-📫 **Let's Connect:** [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/its-huzaifa/)
